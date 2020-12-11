@@ -1,0 +1,7 @@
+[color]
+        ui = true
+[user]
+        name = your_name
+        email = your_email
+[core]
+        excludesfile = ~/dotfiles/.gitignore

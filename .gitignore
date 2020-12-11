@@ -1,0 +1,20 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+.DS_Store
+
+/node_modules
+/yarn-error.log
+package-lock.json
+
+.byebug_history
+.sync-config.cson
+.irbrc
+.vscode/
+/coverage
+/local.log
