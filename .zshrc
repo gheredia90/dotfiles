@@ -8,7 +8,7 @@ export ZSH="/Users/$(whoami)/.oh-my-zsh"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 ZSH_THEME="bira"
 
-plugins=(git rbenv ruby golang django scala gem history history-substring-search brew nanoc)
+plugins=(git rbenv ruby golang scala gem history history-substring-search brew nanoc)
 
 source $ZSH/oh-my-zsh.sh
 

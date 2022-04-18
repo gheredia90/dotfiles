@@ -23,7 +23,6 @@ brew install --cask \
   evernote \
   jumpcut \
   bettertouchtool \
-  postgres \
   postman
 
 # git
@@ -94,6 +93,10 @@ nvm use node # after terminal restart
 
 # Bitbar
 brew install --cask bitbar
+
+# itermocil
+brew install TomAnthony/brews/itermocil
+mkdir ~/.itermocil
 
 # Copy dotfiles tdo ~/dotfiles & create symlinks
 chmod +x create_symlinks.sh
